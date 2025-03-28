@@ -27,7 +27,7 @@ see [examples](/example)
 
 ```typescript
 
-import { MagicaVoxels } from "@mjtdev/magica-voxels";
+import { MagicaVoxels } from "@mjt-engine/magica-voxels";
 
 const ab = await (await fetch("voxel/test.vox")).arrayBuffer();
 
@@ -72,4 +72,4 @@ MIT
 
 ## Documentation
 
-For detailed documentation, please visit the [project documentation](https://mjt-engine.github.io/animate).
+For detailed documentation, please visit the [project documentation](https://mjt-engine.github.io/magica-voxels).
