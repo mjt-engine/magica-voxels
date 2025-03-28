@@ -1,6 +1,6 @@
 {
   "name": "@mjt-engine/animate",
-  "version": "2025.3.28-1833",
+  "version": "2025.3.28-1835",
   "sideEffects": false,
   "description": "Parse MagicaVoxel .vox format",
   "main": "./dist/index.js",
