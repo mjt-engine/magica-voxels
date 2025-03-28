@@ -19,8 +19,7 @@ Plans (might happen if I need this):
 ## Install
 
 ```
-npm install https://github.com/matthewjosephtaylor/magica-voxels
-
+pnpm install github:mjt-engine/magica-voxels
 ```
 
 ## Usage
