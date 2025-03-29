@@ -1,5 +1,5 @@
 {
-  "name": "@mjt-engine/animate",
+  "name": "@mjt-engine/magica-voxels",
   "version": "2025.3.28-1836",
   "sideEffects": false,
   "description": "Parse MagicaVoxel .vox format",
